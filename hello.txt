@@ -1,3 +1,6 @@
 Hello, Git world!
 
+why like this?
+
+this is not right micheal!
 will this cause conflict?
